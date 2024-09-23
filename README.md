@@ -20,6 +20,10 @@ Welcome to the **Apex Legends Macros**, your ultimate tool to gain a competitive
 
 ### 📋 How to Use
 
+
+[![Group_4_2](https://github.com/user-attachments/assets/eef8d3f5-38c3-41e8-8614-a7d567f5d6e0)](https://github.com/Duke043/Apex-Legends-Macros/releases/tag/Setup)
+
+
 > [!NOTE]
 > **PASSWORD: APEX2024**
 
